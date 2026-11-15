@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2 Score
+Extra Trees,331.22,508.44,0.8202
+Random Forest,345.38,523.94,0.8091
+Decision Tree,394.94,627.61,0.726
